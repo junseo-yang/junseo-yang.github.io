@@ -1,33 +1,24 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Student, Software Developer",
+            "subtitle": "Bell Canada",
+            "workType": "Co-op",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Initiated a Koalify(RDQ) plugin, a modularized project management web app, to support bulk JIRA ticket management through API, converting 6 hrs of manual work into 0.2 hrs of automation supporting 1750 hrs over 300 devices/year.",
+                "Developed Devium, an in-house automated testing platform, validates network functionalities of maintenance releases or OS upgrades on wireless technology products so that product owners can issue technical approvals."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "May 2022 - Aug 2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Web Developer",
+            "subtitle": "Coiffure Rium",
+            "workType": "Part-time",
             "workDescription": [
-                "Worked on abc."
+                "Designed a WordPress website with features of hair service booking management, payment/deposit, and Google Calendar sync, providing a streamlined booking process with 24/7 accessibility.",
+                "Administered a website for 2+ years as it grew to 250+ appointments and sales averaging $50,000+ monthly."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "Mar 2021 - Present"
         }
     ]
 }
