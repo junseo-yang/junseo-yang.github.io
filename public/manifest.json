@@ -1,11 +1,11 @@
 {
-  "short_name": "Mayank Agarwal",
-  "name": "Mayank Agarwal - Portfolio",
+  "short_name": "Junseo Yang",
+  "name": "Junseo Yang - Portfolio",
   "icons": [
     {
-      "src": "images/logo.png",
-      "type": "image/png",
-      "sizes": "425x225"
+      "src": "images/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
     }
   ],
   "start_url": ".",
