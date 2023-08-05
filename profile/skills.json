@@ -60,6 +60,18 @@
                 {
                     "icon": "images/skills/android.svg",
                     "title": "Android"
+                },
+                {
+                    "icon": "images/skills/selenium.svg",
+                    "title": "Selenium"
+                },
+                {
+                    "icon": "images/skills/appium.svg",
+                    "title": "Appium"
+                },
+                {
+                    "icon": "images/skills/watir.png",
+                    "title": "Watir"
                 }
             ]
         },
