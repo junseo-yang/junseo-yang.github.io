@@ -1,19 +1,16 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "Sep 2020 - Present",
+            "cardTitle": "Computer Programming and Analysis",
+            "cardSubtitle":"Conestoga College, Waterloo",
+            "cardDetailedText": "GPA - 3.99"
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Sep 2019 - Dec 2019",
+            "cardTitle": "Electronics Engineering",
+            "cardSubtitle":"University of Ottawa, Ottawa",
+            "cardDetailedText": "Student Exchange Program"
         }
     ]
 }

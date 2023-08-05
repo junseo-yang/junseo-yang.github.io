@@ -14,10 +14,6 @@
             "href": "/about"
         },
         {
-            "title": "Skills",
-            "href": "/skills"
-        },
-        {
             "title": "Education",
             "href": "/education"
         },
@@ -30,8 +26,12 @@
             "href": "/projects"
         },
         {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
             "title": "Resume",
-            "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
+            "href": "https://docs.google.com/document/d/1C34_lMl1aljItH1pr-iM5T4orTznrd3SKfQ9EXBar6o/edit?usp=sharing",
             "type": "link"
         }
     ]

@@ -6,40 +6,60 @@
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/ruby.svg",
+                    "title": "Ruby"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/ruby-on-rails.svg",
+                    "title": "Ruby on Rails"
                 },
                 {
-                    "icon": "images/skills/js.png",
+                    "icon": "images/skills/javascript.svg",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
+                    "icon": "images/skills/typescript.svg",
+                    "title": "TypeScript"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/c-sharp.svg",
+                    "title": "C#"
+                },
+                {
+                    "icon": "images/skills/swift.svg",
+                    "title": "Swift"
+                },
+                {
+                    "icon": "images/skills/postgres.svg",
+                    "title": "PostgreSQL"
+                },
+                {
+                    "icon": "images/skills/mongodb.svg",
+                    "title": "MongoDB"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
+                    "icon": "images/skills/jquery.svg",
+                    "title": "jQuery"
+                },
+                {
+                    "icon": "images/skills/angular.svg",
+                    "title": "Angular"
+                },
+                {
+                    "icon": "images/skills/dot-net.svg",
+                    "title": ".NET"
+                },
+                {
+                    "icon": "images/skills/cordova.svg",
+                    "title": "Cordova"
+                },
+                {
+                    "icon": "images/skills/android.svg",
                     "title": "Android"
-                },
-                {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
-                },
-                {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
                 }
             ]
         },
@@ -47,15 +67,23 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/nodejs.svg",
+                    "title": "Nodejs"
                 },
                 {
-                    "icon": "images/skills/git.png",
+                    "icon": "images/skills/linux.svg",
+                    "title": "Linux"
+                },
+                {
+                    "icon": "images/skills/git.svg",
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
+                    "icon": "images/skills/gitlab.svg",
+                    "title": "Gitlab"
+                },
+                {
+                    "icon": "images/skills/docker.svg",
                     "title": "Docker"
                 }
             ]
