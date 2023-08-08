@@ -3,8 +3,8 @@
   "name": "Junseo Yang - Portfolio",
   "icons": [
     {
-      "src": "images/logo.svg",
-      "type": "image/svg+xml",
+      "src": "images/logo.ico",
+      "type": "image/image/x-icon",
       "sizes": "any"
     }
   ],
