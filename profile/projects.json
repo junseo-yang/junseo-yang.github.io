@@ -2,7 +2,7 @@
     "projects" : [
         {
             "image" : "images/projects/ootd.png",
-            "title": "ootd",
+            "title": "OOTD",
             "bodyText": "- Created a SwiftUI iOS app for users to get weather forecasts and outfits of the day based on outdoor temperature.\n -  Utilized Tomorrow.io Weather API integration to fetch location-based weather data with iOS native GPS feature.",
             "links": [
                 {
