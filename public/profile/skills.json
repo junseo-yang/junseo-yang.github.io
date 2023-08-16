@@ -10,10 +10,6 @@
                     "title": "Ruby"
                 },
                 {
-                    "icon": "images/skills/ruby-on-rails.svg",
-                    "title": "Ruby on Rails"
-                },
-                {
                     "icon": "images/skills/javascript.svg",
                     "title": "JavaScript"
                 },
@@ -41,6 +37,10 @@
         {
             "title": "Frameworks & Technologies",
             "items" : [
+                {
+                    "icon": "images/skills/ruby-on-rails.svg",
+                    "title": "Ruby on Rails"
+                },
                 {
                     "icon": "images/skills/jquery.svg",
                     "title": "jQuery"
