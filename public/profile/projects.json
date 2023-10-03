@@ -1,6 +1,23 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/tcm.png",
+            "title": "AI Terms & Conditions Manager",
+            "bodyText": "- Led a team of 4, implementing a terms & conditions managing solution to protect data privacy from security threats.\n -  Implemented a Chrome extension with React, leveraging OpenAI API to summarize highlighted paragraphs.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/junseo-yang/BellGeekfest2023"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Flask",
+                "OpenAI",
+                "BellGeekfest2023"
+            ]
+        },
+        {
             "image" : "images/projects/ootd.png",
             "title": "OOTD",
             "bodyText": "- Created a SwiftUI iOS app for users to get weather forecasts and outfits of the day based on outdoor temperature.\n -  Utilized Tomorrow.io Weather API integration to fetch location-based weather data with iOS native GPS feature.",
@@ -49,7 +66,7 @@
                 "Jekyll",
                 "Docker",
                 "Hackathon",
-                "Bell Geekfest"
+                "BellGeekfest2021"
             ]
         },
         {
