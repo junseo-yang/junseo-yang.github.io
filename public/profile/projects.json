@@ -1,6 +1,24 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/virtual-game-store.png",
+            "title": "Virtual Game Store",
+            "bodyText": "- Created a Virtual Game Store App with ASP .NET Core MVC.\n - Implemented features of Sign Up, Login, Forgotten/Reset password, Profile, Preferences, Address, Selecting Games, Game Recommendations, Wish List, View Wish List, Friends and Family, Events, Rate Games, Review Games, Cart, and Download",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/junseo-yang/virtual-game-store"
+                }
+            ],
+            "tags" : [
+                "C#",
+                "ASP .NET Core MVC",
+                "JavaScript",
+                "Bootstrap",
+                "jQuery"
+            ]
+        },
+        {
             "image" : "images/projects/quotes.png",
             "title": "Quotes",
             "bodyText": "- Created a QuotesWebAPI with ASP .NET Core,a WebSPAClient with Vanilla JavaScript, and a PythonClient with Python.\n - Implemented features of Create/GetAll/Get/Update on Quotes/Tags, Search by Tag, and Top # of Quotes.\n - Authorization and Authentication with JWT Token based OAuth2",
