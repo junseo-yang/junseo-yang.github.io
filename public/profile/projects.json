@@ -1,9 +1,27 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/quotes.png",
+            "title": "Quotes",
+            "bodyText": "- Created a QuotesWebAPI with ASP .NET Core,a WebSPAClient with Vanilla JavaScript, and a PythonClient with Python.\n - Implemented features of Create/GetAll/Get/Update on Quotes/Tags, Search by Tag, and Top # of Quotes.\n - Authorization and Authentication with JWT Token based OAuth2",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/junseo-yang/quotes"
+                }
+            ],
+            "tags" : [
+                "C#",
+                "API",
+                "JavaScript",
+                "Python",
+                "OAuth2"
+            ]
+        },
+        {
             "image" : "images/projects/memory-game.png",
             "title": "Memory Game",
-            "bodyText": "- Created a Memory Game Android app with Kotlin and MVVM architecture.\n -  Implemented a HighScore feature with Android native SharedPreferences without Database.",
+            "bodyText": "- Created a Memory Game Android app with Kotlin and MVVM architecture.\n - Implemented a HighScore feature with Android native SharedPreferences without Database.",
             "links": [
                 {
                     "text": "GitHub",
