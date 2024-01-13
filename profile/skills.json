@@ -10,16 +10,24 @@
                     "title": "Ruby"
                 },
                 {
+                    "icon": "images/skills/c-sharp.svg",
+                    "title": "C#"
+                },
+                {
+                    "icon": "images/skills/kotlin.svg",
+                    "title": "Kotlin"
+                },
+                {
+                    "icon": "images/skills/java.svg",
+                    "title": "Java"
+                },
+                {
                     "icon": "images/skills/javascript.svg",
                     "title": "JavaScript"
                 },
                 {
                     "icon": "images/skills/typescript.svg",
                     "title": "TypeScript"
-                },
-                {
-                    "icon": "images/skills/c-sharp.svg",
-                    "title": "C#"
                 },
                 {
                     "icon": "images/skills/swift.svg",
