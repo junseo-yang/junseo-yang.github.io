@@ -1,15 +1,15 @@
 {
-    "education":[
+    "education": [
         {
-            "title": "Sep 2020 - Present",
+            "title": "Sep 2020 - Apr 2024",
             "cardTitle": "Computer Programming and Analysis",
-            "cardSubtitle":"Conestoga College, Waterloo",
-            "cardDetailedText": "GPA - 3.99/4.00"
+            "cardSubtitle": "Conestoga College, Waterloo",
+            "cardDetailedText": "GPA - 3.98/4.00"
         },
         {
             "title": "Sep 2019 - Dec 2019",
             "cardTitle": "Electronics Engineering",
-            "cardSubtitle":"University of Ottawa, Ottawa",
+            "cardSubtitle": "University of Ottawa, Ottawa",
             "cardDetailedText": "Student Exchange Program"
         }
     ]
