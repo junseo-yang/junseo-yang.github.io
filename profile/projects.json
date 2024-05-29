@@ -103,6 +103,18 @@
             "tags": ["Angular", "jQuery", "Android", "Cordova"]
         },
         {
+            "image": "images/projects/castle-defense.png",
+            "title": "Castle defence",
+            "bodyText": "- Engineered a 2.5D game using the MonoGame framework, employing an archer to defend a castle by defeating monsters and collecting scores, incorporating level systems, animations, and save/load functionality.\n - Crafted a game design document that illustrates features and class diagram information for maintenance.\n - Created a ClickOnce installer containing all necessary DLL files to deploy the .NET Windows Desktop application.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/junseo-yang/castle-defense"
+                }
+            ],
+            "tags": ["C#", ".NET", "MonoGame", "Windows"]
+        },
+        {
             "image": "images/projects/mask.png",
             "title": "Let's recycle masks during COVID-19",
             "bodyText": "- Led a team of 4, implementing a mask recycling solution to support business/individual eco-friendly decision-making.\n - Built a Ruby Jekyll web app to warn people about the danger of the surge of plastic waste and promote how to recycle masks properly in Bell Geekfest 2021 hackathon event organized by Bell Canada.\n - Dockerized the app to establish a consistent and seamless development environment between team members.",
@@ -119,18 +131,6 @@
                 "Hackathon",
                 "BellGeekfest2021"
             ]
-        },
-        {
-            "image": "images/projects/castle-defense.png",
-            "title": "Castle defence",
-            "bodyText": "- Engineered a 2.5D game using the MonoGame framework, employing an archer to defend a castle by defeating monsters and collecting scores, incorporating level systems, animations, and save/load functionality.\n - Crafted a game design document that illustrates features and class diagram information for maintenance.\n - Created a ClickOnce installer containing all necessary DLL files to deploy the .NET Windows Desktop application.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/junseo-yang/castle-defense"
-                }
-            ],
-            "tags": ["C#", ".NET", "MonoGame", "Windows"]
         }
     ]
 }
