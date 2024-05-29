@@ -1,16 +1,40 @@
 {
-    "projects" : [
+    "projects": [
         {
-            "image" : "images/projects/virtual-game-store.png",
+            "image": "images/projects/asdf.png",
+            "title": "asdf",
+            "bodyText": "- Open Source Project contribution.\n- Included Korean translation documentation for bigger impact worldwide. - [See the PR](https://github.com/asdf-vm/asdf/pull/1757)\n- Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/asdf-vm/asdf"
+                }
+            ],
+            "tags": ["Open-source", "Version Manager", "Extendable"]
+        },
+        {
+            "image": "images/projects/salon-rium-coiffure.png",
+            "title": "Salon Rium Coiffure",
+            "bodyText": "- Created a hair salon app with AI virtual hairstyle for a capstone project. - [See the Demo](https://github.com/junseo-yang/salon-rium-coiffure#about-the-project)\n- Led a team of 3, implementing features of Login, Service Management, Service/Designer Catalogue, Appointment Management, Staff Management, Break Management, Google Calendar Sync, Email/Text Message Notification System, Pop-Up Management, Salon Analytics/Management, and AI Virtual Hairstyle.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/junseo-yang/salon-rium-coiffure"
+                }
+            ],
+            "tags": ["Next.js", "MongoDB", "AI Virtual Hairstyle", "Hair Salon"]
+        },
+        {
+            "image": "images/projects/virtual-game-store.png",
             "title": "Virtual Game Store",
-            "bodyText": "- Created a Virtual Game Store App with ASP .NET Core MVC.\n - Implemented features of Sign Up, Login, Forgotten/Reset password, Profile, Preferences, Address, Selecting Games, Game Recommendations, Wish List, View Wish List, Friends and Family, Events, Rate Games, Review Games, Cart, and Download",
+            "bodyText": "- Created a Virtual Game Store App with ASP .NET Core MVC.\n - Led a team of 4, implementing features of Sign Up, Login, Forgotten/Reset password, Profile, Preferences, Address, Selecting Games, Game Recommendations, Wish List, View Wish List, Friends and Family, Events, Rate Games, Review Games, Cart, and Download",
             "links": [
                 {
                     "text": "GitHub",
                     "href": "https://github.com/junseo-yang/virtual-game-store"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "C#",
                 "ASP .NET Core MVC",
                 "JavaScript",
@@ -19,7 +43,7 @@
             ]
         },
         {
-            "image" : "images/projects/quotes.png",
+            "image": "images/projects/quotes.png",
             "title": "Quotes",
             "bodyText": "- Created a QuotesWebAPI with ASP .NET Core,a WebSPAClient with Vanilla JavaScript, and a PythonClient with Python.\n - Implemented features of Create/GetAll/Get/Update on Quotes/Tags, Search by Tag, and Top # of Quotes.\n - Authorization and Authentication with JWT Token based OAuth2",
             "links": [
@@ -28,16 +52,10 @@
                     "href": "https://github.com/junseo-yang/quotes"
                 }
             ],
-            "tags" : [
-                "C#",
-                "API",
-                "JavaScript",
-                "Python",
-                "OAuth2"
-            ]
+            "tags": ["C#", "API", "JavaScript", "Python", "OAuth2"]
         },
         {
-            "image" : "images/projects/memory-game.png",
+            "image": "images/projects/memory-game.png",
             "title": "Memory Game",
             "bodyText": "- Created a Memory Game Android app with Kotlin and MVVM architecture.\n - Implemented a HighScore feature with Android native SharedPreferences without Database.",
             "links": [
@@ -46,13 +64,10 @@
                     "href": "https://github.com/junseo-yang/memory-game"
                 }
             ],
-            "tags" : [
-                "Kotlin",
-                "Android"
-            ]
+            "tags": ["Kotlin", "Android"]
         },
         {
-            "image" : "images/projects/tcm.png",
+            "image": "images/projects/tcm.png",
             "title": "AI Terms & Conditions Manager",
             "bodyText": "- Led a team of 4, implementing a terms & conditions managing solution to protect data privacy from security threats.\n -  Implemented a Chrome extension with React, leveraging OpenAI API to summarize highlighted paragraphs.",
             "links": [
@@ -61,15 +76,10 @@
                     "href": "https://github.com/junseo-yang/BellGeekfest2023"
                 }
             ],
-            "tags" : [
-                "React",
-                "Flask",
-                "OpenAI",
-                "BellGeekfest2023"
-            ]
+            "tags": ["React", "Flask", "OpenAI", "BellGeekfest2023"]
         },
         {
-            "image" : "images/projects/ootd.png",
+            "image": "images/projects/ootd.png",
             "title": "OOTD",
             "bodyText": "- Created a SwiftUI iOS app for users to get weather forecasts and outfits of the day based on outdoor temperature.\n -  Utilized Tomorrow.io Weather API integration to fetch location-based weather data with iOS native GPS feature.",
             "links": [
@@ -78,15 +88,10 @@
                     "href": "https://github.com/junseo-yang/ootd"
                 }
             ],
-            "tags" : [
-                "SwiftUI",
-                "iOS",
-                "Weather API",
-                "OOTD"
-            ]
+            "tags": ["SwiftUI", "iOS", "Weather API", "OOTD"]
         },
         {
-            "image" : "images/projects/fabulous-restaurant.png",
+            "image": "images/projects/fabulous-restaurant.png",
             "title": "Fabulous Restaurants",
             "bodyText": "- Developed an Angular web app for customers to write restaurant reviews with ratings and locations using WebSQL DB.\n - Leveraged Apache Cordova to transform the app to an Android mobile app providing cross-platform broader access.\n - Implemented reverse geocoding with HERE Maps API to store human-readable addresses instead of coordinates.",
             "links": [
@@ -95,15 +100,10 @@
                     "href": "https://github.com/junseo-yang/fabulous-restaurant"
                 }
             ],
-            "tags" : [
-                "Angular",
-                "jQuery",
-                "Android",
-                "Cordova"
-            ]
+            "tags": ["Angular", "jQuery", "Android", "Cordova"]
         },
         {
-            "image" : "images/projects/mask.png",
+            "image": "images/projects/mask.png",
             "title": "Let's recycle masks during COVID-19",
             "bodyText": "- Led a team of 4, implementing a mask recycling solution to support business/individual eco-friendly decision-making.\n - Built a Ruby Jekyll web app to warn people about the danger of the surge of plastic waste and promote how to recycle masks properly in Bell Geekfest 2021 hackathon event organized by Bell Canada.\n - Dockerized the app to establish a consistent and seamless development environment between team members.",
             "links": [
@@ -112,7 +112,7 @@
                     "href": "https://github.com/junseo-yang/sanghwasuh.github.io"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "Ruby",
                 "Jekyll",
                 "Docker",
@@ -121,7 +121,7 @@
             ]
         },
         {
-            "image" : "images/projects/castle-defense.png",
+            "image": "images/projects/castle-defense.png",
             "title": "Castle defence",
             "bodyText": "- Engineered a 2.5D game using the MonoGame framework, employing an archer to defend a castle by defeating monsters and collecting scores, incorporating level systems, animations, and save/load functionality.\n - Crafted a game design document that illustrates features and class diagram information for maintenance.\n - Created a ClickOnce installer containing all necessary DLL files to deploy the .NET Windows Desktop application.",
             "links": [
@@ -130,12 +130,7 @@
                     "href": "https://github.com/junseo-yang/castle-defense"
                 }
             ],
-            "tags" : [
-                "C#",
-                ".NET",
-                "MonoGame",
-                "Windows"
-            ]
+            "tags": ["C#", ".NET", "MonoGame", "Windows"]
         }
     ]
 }

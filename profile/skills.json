@@ -1,10 +1,9 @@
 {
     "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
-    "skills": [{
-     
+    "skills": [
+        {
             "title": "Languages & Databases",
-            "items" : [
-     
+            "items": [
                 {
                     "icon": "images/skills/ruby.svg",
                     "title": "Ruby"
@@ -41,13 +40,18 @@
                     "icon": "images/skills/mongodb.svg",
                     "title": "MongoDB"
                 }
-        ]},
+            ]
+        },
         {
             "title": "Frameworks & Technologies",
-            "items" : [
+            "items": [
                 {
                     "icon": "images/skills/ruby-on-rails.svg",
                     "title": "Ruby on Rails"
+                },
+                {
+                    "icon": "images/skills/nextjs.svg",
+                    "title": "Next.js"
                 },
                 {
                     "icon": "images/skills/jquery.svg",
@@ -84,11 +88,15 @@
             ]
         },
         {
-            "title" : "Tools & Platforms",
+            "title": "Tools & Platforms",
             "items": [
                 {
                     "icon": "images/skills/nodejs.svg",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/vercel.png",
+                    "title": "Vercel"
                 },
                 {
                     "icon": "images/skills/linux.svg",
@@ -107,5 +115,6 @@
                     "title": "Docker"
                 }
             ]
-    }
-]}
+        }
+    ]
+}

@@ -1,6 +1,13 @@
 {
     "experiences": [
         {
+            "title": "Specialist, Software Developer",
+            "subtitle": "Bell Canada",
+            "workType": "Permanent Full-time",
+            "workDescription": ["TBD", "TBD"],
+            "dateText": "Jun 2024 - Present"
+        },
+        {
             "title": "Student, Software Developer",
             "subtitle": "Bell Canada",
             "workType": "Co-op",
@@ -13,12 +20,12 @@
         {
             "title": "Web Developer",
             "subtitle": "Coiffure Rium",
-            "workType": "Part-time",
+            "workType": "Contract Part-time",
             "workDescription": [
                 "Designed a WordPress website with features of hair service booking management, payment/deposit, and Google Calendar sync, providing a streamlined booking process with 24/7 accessibility.",
                 "Administered a website for 2+ years as it grew to 250+ appointments and sales averaging $50,000+ monthly."
             ],
-            "dateText": "Mar 2021 - Present"
+            "dateText": "Mar 2021 - May 2022"
         }
     ]
 }
