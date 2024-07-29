@@ -4,7 +4,10 @@
             "title": "Specialist, Software Developer",
             "subtitle": "Bell Canada",
             "workType": "Permanent Full-time",
-            "workDescription": ["TBD", "TBD"],
+            "workDescription": [
+                "Primed Koalify(RDQ), a certification platform, validating network functionalities for maintenance releases and OS upgrades on 100+ in-market wireless products and supporting technical product owners to issue technical approvals",
+                "Developed Anritsu, a network simulator, automating functional test cases and saving 900+hrs over 300+ devices/year"
+            ],
             "dateText": "Jun 2024 - Present"
         },
         {
