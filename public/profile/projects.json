@@ -8,6 +8,14 @@
                 {
                     "text": "GitHub",
                     "href": "https://github.com/asdf-vm/asdf"
+                },
+                {
+                    "text": "PR",
+                    "href": "https://github.com/asdf-vm/asdf/pull/1757"
+                },
+                {
+                    "text": "Demo",
+                    "href": "https://asdf-vm.com/ko-kr/"
                 }
             ],
             "tags": ["Open-source", "Version Manager", "Extendable"]
